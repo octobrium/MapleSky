@@ -2,6 +2,8 @@
 
 A MapleStory v83 private server — pre-Big Bang nostalgia.
 
+**Discord:** https://discord.gg/WCQ4K3KxTf
+
 ## How to Play
 
 1. **Add an antivirus exclusion first** — see [Windows Defender / Antivirus](#windows-defender--antivirus) below. If you skip this, your antivirus will delete the game client before you can run it.
