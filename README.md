@@ -52,7 +52,7 @@ The v83 MapleStory client (2008) uses old anti-cheat protection (HackShield/Them
 
 On top of that, private server clients are modified (the server IP is patched into the binary) and unsigned — there's no code-signing certificate telling Windows "a verified publisher made this." The official Nexon client is signed with Nexon's certificate, which is why it usually gets a pass. Private servers can't sign with Nexon's certificate because they're not Nexon.
 
-This is not unique to MapleSky. Every v83 private server distributes functionally identical binaries and every one of them triggers the same antivirus warnings. MapleRoyals has [multiple](https://royals.ms/forum/threads/whitelist-mapleroyals-client-from-antivirus-software.211674/) [forum](https://mapleroyals.com/forum/threads/making-mapleroyals-an-exception-in-windows-defender.103839/) [threads](https://royals.ms/forum/threads/setting-exception-for-mapleroyals.243951/) about this exact issue.
+This is not unique to MapleSky. Every v83 private server distributes functionally identical binaries and every one of them triggers the same antivirus warnings. MapleRoyals has [multiple](https://royals.ms/forum/threads/whitelist-mapleroyals-client-from-antivirus-software.211674/) [forum](https://royals.ms/forum/threads/making-mapleroyals-an-exception-in-windows-defender.103839/) [threads](https://royals.ms/forum/threads/setting-exception-for-mapleroyals.243951/) about this exact issue.
 
 ### How to fix (Windows Defender)
 
